@@ -115,15 +115,6 @@ Batch size: 32
 Epochs: 25
 
 
-Evaluation Metrics:
-
-Accuracy
-
-Precision & Recall
-
-Confusion Matrix
-
-
 
 ---
 
