@@ -129,40 +129,6 @@ Confusion Matrix Sample:
 
 
 ---
-
-Deployment
-
-The trained model can be deployed as a web application using Flask.
-
-Running the Web App
-
-1. Install Flask:
-
-pip install flask
-
-
-2. Start the server:
-
-python app.py
-
-
-3. Access the application at http://127.0.0.1:5000/
-
-
-
-API Endpoint Example
-
-POST /predict
-
-Input: Image file
-
-Output: Predicted skin condition
-
-
-
-
----
-
 Future Improvements
 
 ✅ Use pretrained models (ResNet, EfficientNet) for better performance.
