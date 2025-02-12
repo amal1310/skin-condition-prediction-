@@ -189,13 +189,3 @@ This project is open-source under the MIT License. Feel free to modify and use i
 
 ---
 
-## **Next Steps**
-
-1. **Save this file** as `README.md` in your project directory.  
-2. **Upload it to GitHub** with:  
-   ```bash
-   git add README.md
-   git commit -m "Added detailed README"
-   git push origin main
-
-#### 1. Enhance with additional diagrams and visualization
